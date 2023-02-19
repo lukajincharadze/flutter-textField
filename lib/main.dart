@@ -16,7 +16,7 @@ class MyApp extends StatelessWidget {
       ), // ThemeData
       home: Scaffold(
         appBar: AppBar(
-          title: Text("Statful Widget"),
+          title: Text("Stateful Widget"),
         ),
         body: FirstStateFulWidget(),
       ),
