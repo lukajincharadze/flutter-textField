@@ -55,7 +55,7 @@ class _FirstStateFulWidgetState extends State<FirstStateFulWidget> {
           setState(() {
             userText = userInput.text;
           });
-        }, child: Text("Click me"))
+        }, child: Text("Click me")),
       ],
     );
   }
